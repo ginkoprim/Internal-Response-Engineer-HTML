@@ -1,0 +1,30 @@
+.juana-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.juana-cross-media {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.juana-image {
+  width: 200px;
+  object-fit: cover;
+}
+.juana-fragment1 {
+  display: contents;
+}
+.juana-text3 {
+  display: inline-block;
+}
+.juana-fragment2 {
+  display: contents;
+}
+.juana-text4 {
+  display: inline-block;
+}
